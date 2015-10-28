@@ -1,16 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package kataa4;
 
 import java.util.HashMap;
 import java.util.Set;
 
-/**
- *
- * @author usuario
- */
 public class Histogram <T>{
     HashMap<T, Integer> map = new HashMap<>();
 
